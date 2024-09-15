@@ -150,7 +150,3 @@ nav_order: 20240915
 > **right in front of your eyes : used to emphasise that something surprising or unusual happened directly before you**
 > 
 > *用来强调一些令人惊讶或不寻常的事情直接发生在你面前*
-
-
-
-</div>
