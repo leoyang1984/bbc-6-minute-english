@@ -5,3 +5,5 @@ baseurl: "/bbc-6-minute-english"
 url: "https://yourusername.github.io"
 
 search_enabled: true
+
+markdown: kramdown
