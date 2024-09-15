@@ -7,29 +7,34 @@ nav_order: 20240915
 
 # Keeping kids off smartphones
 
-This is [**Video**](https://www.youtube.com/watch?v=af7VzZTzmlg) 
+This is [**Video**](https://www.youtube.com/watch?v=af7VzZTzmlg) link.
 
 > **This is not a word-for-word transcript.**  
 >
 > *这不是逐字的文字稿。*  
 
-> **Neil: Hello. This is 6 Minute English, from BBC Learning English. I'm Neil.**
+> **Neil:**   
+> Hello. This is 6 Minute English, from BBC Learning English. I'm Neil.
 >
 > *尼尔：大家好。这里是BBC英语学习的六分钟英语。我是尼尔。*
 
-> **Beth: And I'm Beth.**
+> **Beth:**
+> And I'm Beth.   
 >
 > *贝丝：我是贝丝。*
 
-> **Neil: Can I ask you something, Beth...? Beth? Hello, Beth? Are you listening?**
+> **Neil:**
+> Can I ask you something, Beth...? Beth? Hello, Beth? Are you listening?
 >
 > *尼尔：贝丝，我能问你点事吗？...贝丝？喂，贝丝？你在听吗？*
 
-> **Beth: Oh, sorry, Neil! I was er... checking my Instagram, and ugh... Facebook...and, just sending this email... done! Now, what did you want?**
+> **Beth:**
+> Oh, sorry, Neil! I was er... checking my Instagram, and ugh... Facebook...and, just sending this email... done! Now, what did you want?
 > 
 > *贝丝：哦，抱歉，尼尔！我刚刚在...查看我的Instagram，还有...Facebook...还在发一封电子邮件...好了！你想说什么？*
 
-> **Neil: Well, I wanted to ask if you're getting addicted to your smartphone, but clearly the answer is 'yes'!**
+> **Neil:**
+> Well, I wanted to ask if you're getting addicted to your smartphone, but clearly the answer is 'yes'!
 > 
 > *尼尔：嗯，我本想问你是否沉迷于智能手机，但显然答案是"是的"！*
 
