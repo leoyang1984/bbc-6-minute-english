@@ -185,46 +185,37 @@ c) nine hours?**
 
 ---
 
-## VOCABULARY
+## Vocabulary Examples
 
 1. **at the end of the day**
-  > after all the relevant facts have been considered
-  > 
-  > *考虑所有相关事实之后*
-  > 
-  >"I mean, she's only nine at the end of the day."
-
-
+   - *English*: after all the relevant facts have been considered
+   - *中文*: 考虑所有相关事实之后
+   > "I mean, she's only nine at the end of the day."
 
 2. **bestie**
-> 
-> (slang) best friend**
-> 
-> *（俚语）最好的朋友*
+   - *English*: (slang) best friend
+   - *中文*: （俚语）最好的朋友
+   > "Myra's daughter wants to chat with her besties – her best friends."
 
 3. **(be) torn between**
->
-> find it difficult to choose between two possibilities, leaving you feeling anxious or worried
-> 
-> *难以在两种可能性之间做出选择，让你感到焦虑或担忧*
+   - *English*: find it difficult to choose between two possibilities, leaving you feeling anxious or worried
+   - *中文*: 难以在两种可能性之间做出选择，让你感到焦虑或担忧
+   > "So, I'm torn between wanting her to be in our world, and also letting her be in her own mini world with her friends."
 
 4. **nightmare**
->
-> a very unpleasant experience, situation or event
-> 
-> *非常不愉快的经历、情况或事件*
+   - *English*: a very unpleasant experience, situation or event
+   - *中文*: 非常不愉快的经历、情况或事件
+   > "Everyone I spoke to said, 'Yes, it's a nightmare getting your child a phone, but you've got no choice.'"
 
 5. **go viral**
->
-> spread quickly and widely on the internet through social media and email
-> 
-> *通过社交媒体和电子邮件在互联网上迅速广泛传播*  
+   - *English*: spread quickly and widely on the internet through social media and email
+   - *中文*: 通过社交媒体和电子邮件在互联网上迅速广泛传播
+   > "So, Clare and I decided to start a WhatsApp group to support each other, and I posted about it on social media, and it went viral."
 
 6. **right in front of your eyes**
->
-> used to emphasise that something surprising or unusual happened directly before you
-> 
-> *用来强调一些令人惊讶或不寻常的事情直接发生在你面前*
+   - *English*: used to emphasise that something surprising or unusual happened directly before you
+   - *中文*: 用来强调一些令人惊讶或不寻常的事情直接发生在你面前
+   > "They sprung up all over the country right in front of our eyes."
 
 ---
 
