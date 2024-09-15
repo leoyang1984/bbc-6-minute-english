@@ -9,7 +9,8 @@ nav_order: 20240915
 
 ## [6分钟英语：智能手机是否正在伤害我们的孩子？](https://www.youtube.com/watch?v=af7VzZTzmlg)
 
-> **注意：本文稿经过编辑，并非逐字记录。**
+{: .note-title }
+> 注意：本文稿经过编辑，并非逐字记录。
 > 
 > *Note: This is not a word-for-word transcript.*
 
@@ -205,5 +206,5 @@ nav_order: 20240915
 
 ---
 
-{: .note-title }
-> A paragraph
+
+
