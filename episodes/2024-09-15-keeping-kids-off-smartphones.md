@@ -154,3 +154,6 @@ nav_order: 20240915
 > *用来强调一些令人惊讶或不寻常的事情直接发生在你面前*
 
 ---
+
+> [!TIP]
+> Use the command line to detect and resolve the errors!
