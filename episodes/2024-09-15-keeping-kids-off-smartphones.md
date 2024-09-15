@@ -7,17 +7,7 @@ nav_order: 20240915
 
 # Keeping kids off smartphones
 
-This is **[Video](https://www.youtube.com/watch?v=af7VzZTzmlg)  **
-
-
-
-
-
-
-
-
-
-
+This is [**Video**](https://www.youtube.com/watch?v=af7VzZTzmlg) 
 
 > **This is not a word-for-word transcript.**  
 >
