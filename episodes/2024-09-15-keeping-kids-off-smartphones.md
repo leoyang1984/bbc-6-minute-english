@@ -13,6 +13,10 @@ nav_order: 20240915
 > 
 > *Note: This is not a word-for-word transcript.*
 
+{: .warning }
+
+> This website documents the features of the current main branch of the Just the Docs theme. See [the CHANGELOG]({% link CHANGELOG.md %}) for a list of releases, new features, and bug fixes.
+
 
 ---
 
