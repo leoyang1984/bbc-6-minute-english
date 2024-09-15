@@ -4,4 +4,7 @@ description: BBC 6 Minute English 中英文对照学习资料
 baseurl: "/bbc-6-minute-english"
 url: "https://yourusername.github.io"
 
+# Build settings
+markdown: kramdown
+
 search_enabled: true
