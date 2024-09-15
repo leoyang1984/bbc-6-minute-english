@@ -187,27 +187,39 @@ c) nine hours?**
 
 ## VOCABULARY
 
-> **at the end of the day : after all the relevant facts have been considered**
+> **at the end of the day**
+> 
+> after all the relevant facts have been considered
 > 
 > *考虑所有相关事实之后*  
 
-> **bestie : (slang) best friend**
+> **bestie**
+> 
+> (slang) best friend**
 > 
 > *（俚语）最好的朋友*
 
-> **(be) torn between : find it difficult to choose between two possibilities, leaving you feeling anxious or worried**
+> **(be) torn between**
+>
+> find it difficult to choose between two possibilities, leaving you feeling anxious or worried
 > 
 > *难以在两种可能性之间做出选择，让你感到焦虑或担忧*
 
-> **nightmare : a very unpleasant experience, situation or event**
+> **nightmare**
+>
+> a very unpleasant experience, situation or event
 > 
 > *非常不愉快的经历、情况或事件*
 
-> **go viral : spread quickly and widely on the internet through social media and email**
+> **go viral**
+>
+> spread quickly and widely on the internet through social media and email
 > 
 > *通过社交媒体和电子邮件在互联网上迅速广泛传播*  
 
-> **right in front of your eyes : used to emphasise that something surprising or unusual happened directly before you**
+> **right in front of your eyes**
+>
+> used to emphasise that something surprising or unusual happened directly before you
 > 
 > *用来强调一些令人惊讶或不寻常的事情直接发生在你面前*
 
