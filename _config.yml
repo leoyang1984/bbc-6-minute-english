@@ -34,3 +34,5 @@ callouts:
   new:
     title: NEW
     color: green
+
+callouts_opacity: 0.3
