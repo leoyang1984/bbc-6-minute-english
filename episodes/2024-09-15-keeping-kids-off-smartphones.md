@@ -188,12 +188,13 @@ c) nine hours?**
 ## VOCABULARY
 
 1. **at the end of the day**
-> 
-> after all the relevant facts have been considered
->
->"I mean, she's only nine at the end of the day."
->  
-> *考虑所有相关事实之后*  
+  > after all the relevant facts have been considered
+  > 
+  > *考虑所有相关事实之后*
+  > 
+  >"I mean, she's only nine at the end of the day."
+
+
 
 2. **bestie**
 > 
