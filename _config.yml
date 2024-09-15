@@ -1,0 +1,7 @@
+remote_theme: just-the-docs/just-the-docs@v0.10.0
+title: BBC 6 Minute English
+description: BBC 6 Minute English 中英文对照学习资料
+baseurl: "/bbc-6-minute-english"
+url: "https://yourusername.github.io"
+
+search_enabled: true
