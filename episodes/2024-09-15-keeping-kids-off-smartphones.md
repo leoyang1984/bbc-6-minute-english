@@ -38,15 +38,20 @@ This is [**Video**](https://www.youtube.com/watch?v=af7VzZTzmlg) link.
 > 
 > *尼尔：嗯，我本想问你是否沉迷于智能手机，但显然答案是"是的"！*
 
-> **Beth: Actually, Neil, I am worried about my smartphone use, and it's not just me. Concerns are growing about the negative effect smartphones are having on adults and, even more, on children.**
+> **Beth:**
+> Actually, Neil, I am worried about my smartphone use, and it's not just me. Concerns are growing about the negative effect smartphones are having on adults and, even more, on children.
 > 
 > *贝丝：实际上，尼尔，我确实对自己使用智能手机的情况感到担忧，而且不仅仅是我。人们越来越担心智能手机对成年人，尤其是对儿童的负面影响。*
 
-> **Neil: Studies show that girls who spend more time on social media are more likely to be anxious or depressed, and smartphones have also been linked to delayed brain development and poor sleep.**
-> 
+> **Neil:**
+> Studies show that girls who spend more time on social media are more likely to be anxious or depressed, and smartphones have also been linked to delayed brain development and poor sleep.
+>
 > *尼尔：研究表明，在社交媒体上花更多时间的女孩更容易焦虑或抑郁，智能手机还与大脑发育迟缓和睡眠质量差有关。*
 
-> **Beth: Even so, around 60% of British eight-to-eleven-year-olds have a smartphone. So, in this programme, we'll be asking: are kids better off without a phone? And, of course, we'll be learning some useful new vocabulary too.**
+
+
+> **Beth:**
+> Even so, around 60% of British eight-to-eleven-year-olds have a smartphone. So, in this programme, we'll be asking: are kids better off without a phone? And, of course, we'll be learning some useful new vocabulary too.
 > 
 > *贝丝：尽管如此，大约60%的英国8至11岁儿童拥有智能手机。所以在本节目中，我们将探讨：没有手机对孩子们是否更好？当然，我们还会学习一些有用的新词汇。*
 
@@ -161,20 +166,5 @@ This is [**Video**](https://www.youtube.com/watch?v=af7VzZTzmlg) link.
 > *用来强调一些令人惊讶或不寻常的事情直接发生在你面前*
 
 ---
-
-> [!TIP]
-> Use the command line to detect and resolve the errors!
-
-> [!NOTE]
-> I want the readers to read it carefully as it contains many important docs.
-
-> [!WARNING]
-> DON'T DELETE THE `package.json` file!
-
-> [!CAUTION]
-> Don't execute the code without commenting the test cases.
-
-> [!IMPORTANT]  
-> Read the contribution guideline before adding a pull request.
 
 
