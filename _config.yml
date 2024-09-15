@@ -9,3 +9,28 @@ search_enabled: true
 markdown: kramdown
 kramdown:
   input: GFM
+
+callouts:
+  warning:
+    title: WARNING               
+    color: red
+
+callouts:
+  note:
+    title: NOTE         
+    color: purple
+
+callouts:
+  important:
+    title: IMPORTANT         
+    color: blue
+
+callouts:
+  new:
+    title: NEW
+    color: green
+
+callouts:
+  new:
+    title: NEW
+    color: green
