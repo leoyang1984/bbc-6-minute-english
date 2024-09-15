@@ -205,8 +205,8 @@ nav_order: 20240915
 
 ---
 
-{: .note}
-这是一个注释。
+{: .note-title }
+> My note title
+>
+> A paragraph with a custom title callout
 
-{: .warning}
-这是一个警告。
