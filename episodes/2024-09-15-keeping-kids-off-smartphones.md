@@ -13,11 +13,7 @@ nav_order: 20240915
 > 
 > *Note: This is not a word-for-word transcript.*
 
-{: .warning }
-This website documents the features of the current main branch of the Just the Docs theme.
 
-{: .note }
-To use the theme, you do not need to clone or fork the Just the Docs repo! You should do that only if you intend to browse the theme docs locally, contribute to the development of the theme, or develop a new theme based on Just the Docs.
 
 ---
 
@@ -208,5 +204,15 @@ To use the theme, you do not need to clone or fork the Just the Docs repo! You s
    > "They sprung up all over the country right in front of our eyes."
 
 ---
+
+{: .warning }
+This website documents the features of the current main branch of the Just the Docs theme.
+
+{: .note }
+To use the theme, you do not need to clone or fork the Just the Docs repo! You should do that only if you intend to browse the theme docs locally, contribute to the development of the theme, or develop a new theme based on Just the Docs.
+
+<p class="warning">This website documents the features of the current main branch of the Just the Docs theme.</p>
+
+<p class="note">To use the theme, you do not need to clone or fork the Just the Docs repo! You should do that only if you intend to browse the theme docs locally, contribute to the development of the theme, or develop a new theme based on Just the Docs.</p>
 
 
