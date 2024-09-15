@@ -7,6 +7,8 @@ nav_order: 20240915
 
 # Keeping kids off smartphones
 
+[Video](https://www.youtube.com/watch?v=af7VzZTzmlg)  
+
 > **This is not a word-for-word transcript.**  
 >
 > *这不是逐字的文字稿。*  
