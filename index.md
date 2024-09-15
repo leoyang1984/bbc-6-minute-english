@@ -12,7 +12,7 @@ nav_order: 1
 
 ## 最新内容
 
-- [示例文章](episodes/example.md)
+- [Keeping kids off smartphones](episodes/2024-09-15-keeping-kids-off-smartphones.md) - 2024-09-15
 
 ## 关于
 
