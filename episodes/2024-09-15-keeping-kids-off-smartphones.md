@@ -206,5 +206,4 @@ nav_order: 20240915
 ---
 
 {: .note-title }
-> A paragraph with a custom title callout
-
+> A paragraph
