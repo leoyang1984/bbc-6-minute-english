@@ -154,9 +154,7 @@ nav_order: 20240915
 以下内容为测试
 ---
 <div style="background-color: #f0f0f0; padding: 10px;">
-
 > **This is not a word-for-word transcript.**  
 >
 > *这不是逐字的文字稿。*  
-
 </div>
