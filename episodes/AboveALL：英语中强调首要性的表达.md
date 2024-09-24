@@ -1,4 +1,11 @@
- # above all
+---
+layout: default
+title: "AboveALL：英语中强调首要性的表达"
+date: 2024-09-24
+nav_order: 20240924
+---
+
+# above all
 
 表示首要或最重要的，强调某事比其他事更重要。
 
