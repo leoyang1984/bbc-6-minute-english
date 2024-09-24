@@ -1,4 +1,7 @@
 ---
+
+
+
 layout: home
 title: Home
 nav_order: 1
@@ -12,17 +15,17 @@ nav_order: 1
 
 ## 最新内容
 
-- [网页内容排序术语解析：从'最高评分'到'最早发布'](episodes/0916_网页内容排序术语解析：从'最高评分'到'最早发布'.md) - 2024-09-16
-- [Keeping kids off smartphones](episodes/0915_keeping-kids-off-smartphones.md) - 2024-09-15
-- [AboveALL：英语中强调首要性的表达](episodes/0924_AboveALL：英语中强调首要性的表达.md) - 2024-09-24
-- [A different ball game](episodes/0924_a_different_ball_game.md) - 2024-09-24
-- [Across the board 全面地](episodes/0924_across the board 全面地.md) - 2024-09-24
-- [After all](episodes/0924_after_all.md) - 2024-09-24
-- [Again and again](episodes/0924_again_and_again.md) - 2024-09-24
-- [《画里画外》](episodes/0924_promptFor《画里画外》.md) - 2024-09-24
-- [今日测试](episodes/0924_今日测试.md) - 2024-09-24
-- [参考答案](episodes/0924_参考答案.md) - 2024-09-24
-- [学习策略词汇表](episodes/0924_学习策略词汇表.md) - 2024-09-24
+- [0916_网页内容排序术语解析：从'最高评分'到'最早发布'.md](episodes/0916_网页内容排序术语解析：从'最高评分'到'最早发布'.md)
+- [0915_keeping-kids-off-smartphones.md](episodes/0915_keeping-kids-off-smartphones.md)
+- [0924_AboveALL：英语中强调首要性的表达.md](episodes/0924_AboveALL：英语中强调首要性的表达.md)
+- [0924_a_different_ball_game.md](episodes/0924_a_different_ball_game.md)
+- [0924_across the board 全面地.md](episodes/0924_across the board 全面地.md)
+- [0924_after_all.md](episodes/0924_after_all.md)
+- [0924_again_and_again.md](episodes/0924_again_and_again.md)
+- [0924_promptFor《画里画外》.md](episodes/0924_promptFor《画里画外》.md)
+- [0924_今日测试.md](episodes/0924_今日测试.md)
+- [0924_参考答案.md](episodes/0924_参考答案.md)
+- [0924_学习策略词汇表.md](episodes/0924_学习策略词汇表.md)
 
 ## 关于
 
