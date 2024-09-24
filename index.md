@@ -17,7 +17,7 @@ nav_order: 1
 
 - [0916_网页内容排序术语解析：从'最高评分'到'最早发布'.md](episodes/0916_网页内容排序术语解析：从'最高评分'到'最早发布'.md)
 - [0915_keeping-kids-off-smartphones.md](episodes/0915_keeping-kids-off-smartphones.md)
-- [0924_AboveALL：英语中强调首要性的表达.md](episodes/0924_AboveALL：英语中强调首要性的表达.md)
+- [0924_across the board_全面地.md](episodes/0924_acrossTheBoard_全面地.md)
 - [0924_a_different_ball_game.md](episodes/0924_a_different_ball_game.md)
 - [0924_across the board 全面地.md](episodes/0924_across the board 全面地.md)
 - [0924_after_all.md](episodes/0924_after_all.md)
