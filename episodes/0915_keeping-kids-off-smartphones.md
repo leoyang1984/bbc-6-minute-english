@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Keeping kids off smartphones"
-date: 2024-09-15
+title: "0915_Keeping kids off smartphones"
+date: 2024-09-15  
 nav_order: 20240915
 ---
 
