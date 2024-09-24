@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "after all：毕竟；终究"
+title: "0924_after all：毕竟；终究"
 date: 2024-09-24
 nav_order: 20240924
 ---
