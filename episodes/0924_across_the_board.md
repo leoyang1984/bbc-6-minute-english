@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "0924_acrossTheBoard"      
-date: 2024-09-24      
-nav_order: 20240924      
+title: "0924_across_the_board"
+date: 2024-09-24
+nav_order: 20240924
 ---
 
 # across the board      
