@@ -1,51 +1,81 @@
 ---
-layout: default
-title: "0924_across the board：全面地"
-date: 2024-09-24
-nav_order: 20240924
+layout: default      
+title: "0924_across the board：全面地"      
+date: 2024-09-24      
+nav_order: 20240924      
 ---
 
-# across the board
+# across the board      
 
-指全面地，表示事情会以同样方式影响所有人或事，常用作说明工资及价格的升降。
+指全面地，表示事情会以同样方式影响所有人或事，常用作说明工资及价格的升降。      
 
 - We are asking the government to increase taxes on alcohol **across the board**.
+
+
+
+
+
+
 - In an effort to attract more customers, they have cut prices **across the board**.
 
-## 对话
+
+
+
+
+
+
+## 对话      
 
 > - Last year exam results in science subjects were excellent, but results in arts subjects were poor.
+
+
+
+
+
+
 > - The year before that, arts subjects did well and science subjects did not.
-> - This year, however, I am very glad to say...
+
+
+
+
+
+
+> - This year, however, I am very glad to say...      
 > - First-class results have been achieved across the board!
 
-## 单词
 
-{: .note-title }
-> across
->
-> 英式发音：[əˈkrɒs]；美式发音：[əˈkrɔːs]
->
-> 中文释义：[横过；穿过；在对面]
 
-{: .note-title }
-> board
->
-> 英式发音：[bɔːd]；美式发音：[bɔːrd]
->
-> 中文释义：[板；董事会；膳食]
 
-{: .note-title }
-> increase
->
-> 英式发音：[ɪnˈkriːs]；美式发音：[ɪnˈkriːs]
->
-> 中文释义：[增加；增长；提高]
 
-{: .note-title }
-> taxes
+
+
+## 单词      
+
+{: .note-title }     
+> across     
 >
-> 英式发音：[ˈtæksɪz]；美式发音：[ˈtæksɪz]
+> 英式发音：[əˈkrɒs]；美式发音：[əˈkrɔːs]     
+>
+> 中文释义：[横过；穿过；在对面]    
+
+{: .note-title }    
+> board    
+>
+> 英式发音：[bɔːd]；美式发音：[bɔːrd]   
+>
+> 中文释义：[板；董事会；膳食]   
+
+{: .note-title }   
+> increase  
+>
+> 英式发音：[ɪnˈkriːs]；美式发音：[ɪnˈkriːs]  
+>
+> 中文释义：[增加；增长；提高]  
+
+{: .note-title } 
+> taxes 
+>
+> 英式发音：[ˈtæksɪz]；美式发音：[ˈtæksɪz] 
 >
 > 中文释义：[税；税金（tax的复数）]
 
