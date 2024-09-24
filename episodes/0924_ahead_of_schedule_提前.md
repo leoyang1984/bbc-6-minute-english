@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "ahead of schedule：提前"
+title: "0924_ahead of schedule：提前"
 date: 2024-09-24
-nav_order: 20240924
+nav_order: 20240924  
 ---
 
 # Ahead of schedule
