@@ -1,6 +1,6 @@
 ---
-layout: default      
-title: "0924_acrossTheBoard_全面地"      
+layout: default
+title: "0924_acrossTheBoard"      
 date: 2024-09-24      
 nav_order: 20240924      
 ---
