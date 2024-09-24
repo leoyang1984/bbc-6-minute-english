@@ -14,7 +14,7 @@ nav_order: 20240924
 
 # 格式要求
 
-```markdown
+\```markdown
 note-style = 
 """
 
@@ -74,11 +74,11 @@ note-style =
 > 中文释义：[]
 
 """
-```
+\```
 
 
 
-```markdown
+\```markdown
 word-style = 
 """
 
@@ -97,7 +97,7 @@ word-style =
 if [word] 出现在句子中:
 
 ​	[word]将被加粗。 
-```
+\```
 
 
 
@@ -113,14 +113,14 @@ if [word] 出现在句子中:
 
 5. 为"new-note"输出的内容设置一个标头：
 
-   1. ```markdown
+   1. \```markdown
       ---
       layout: default
       title: "across the board：全面地"
       date: 2024-09-24
       nav_order: 20240924
       ---
-      ```
+      \```
 
    2. title使用步骤4中的名称，时间按照当下的时间来写
 
@@ -128,7 +128,7 @@ if [word] 出现在句子中:
 
 7. 最终结果以markdowncode输出，并为"new-note"文件起一个简单的名字，名字包含名称及文件格式
 
-```
+\```
 
 ---
 
@@ -152,9 +152,9 @@ if [word] 出现在句子中:
 
 请在下方代码块中列出本次测试涵盖的具体知识点：
 
-```markdown
+\```markdown
 <请在此处粘贴考试内容点>
-```
+\```
 
 ## 3. 测试设计原则
 
