@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "AboveALL：英语中强调首要性的表达"
-date: 2024-09-24
+title: "0924_AboveALL：英语中强调首要性的表达"
+date: 2024-09-24  
 nav_order: 20240924
 ---
 
