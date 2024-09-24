@@ -60,6 +60,13 @@ behind schedule 表示落后于原定计划完成某事。
 > 中文释义：行李；皮箱；手提箱
 
 {: .note-title }
+> hall
+>
+> 英式发音: [hɔːl]; 美式发音: [hɔːl]
+>
+> 中文释义：大厅；礼堂；会堂；走廊
+
+{: .note-title }
 > straight
 >
 > 英式发音: [streɪt]; 美式发音: [streɪt]
