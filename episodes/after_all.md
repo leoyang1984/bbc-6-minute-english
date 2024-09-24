@@ -9,20 +9,20 @@ nav_order: 20240924
 
 毕竟；终究
 
-after all 有两个不同意思。表示毕竟时，用于解释或说明理由，提醒对方考虑到某一点。这时 after all 可放在句首、句中或句尾。
+**after all** 有两个不同意思。表示毕竟时，用于解释或说明理由，提醒对方考虑到某一点。这时 **after all** 可放在句首、句中或句尾。
 
-• You can't expect Lucy's spelling to be perfect. After all, she is only eight!
+• You can't expect Lucy's spelling to be perfect. **After all**, she is only eight!
 你不应期望露西的拼写完全正确，毕竟她只有八岁！
 
-• Tom can be **generous** sometimes. He did give you his old car for nothing, after all.
+• Tom can be **generous** sometimes. He did give you his old car for nothing, **after all**.
 汤姆有时也很大方。毕竟他将他那辆旧车白白送给你了。
 
-after all 也可表示最终，常出现在句尾，表示事情的发生出乎意料。
+**after all** 也可表示最终，常出现在句尾，表示事情的发生出乎意料。
 
-• James's wife has fallen ill, so he can't come after all.
+• James's wife has fallen ill, so he can't come **after all**.
 詹姆斯的太太病了，所以他最终来不了了。
 
-• We heard the weather **forecast** and were all **prepared** for wet weather, and then it didn't rain after all.
+• We heard the weather **forecast** and were all **prepared** for wet weather, and then it didn't rain **after all**.
 我们听了天气预报，并做好了下雨的准备，可是最终没有下雨。
 
 ## 对话
