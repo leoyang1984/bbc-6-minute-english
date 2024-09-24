@@ -39,6 +39,27 @@ behind schedule 表示落后于原定计划完成某事。
 > 中文释义：负担得起；有能力做；提供
 
 {: .note-title }
+> conveyor
+>
+> 英式发音: [kənˈveɪə(r)]; 美式发音: [kənˈveɪər]
+>
+> 中文释义：输送机；传送带；传输者
+
+{: .note-title }
+> belt
+>
+> 英式发音: [belt]; 美式发音: [belt]
+>
+> 中文释义：腰带；地带；传送带；皮带
+
+{: .note-title }
+> luggage
+>
+> 英式发音: [ˈlʌɡɪdʒ]; 美式发音: [ˈlʌɡɪdʒ]
+>
+> 中文释义：行李；皮箱；手提箱
+
+{: .note-title }
 > straight
 >
 > 英式发音: [streɪt]; 美式发音: [streɪt]
