@@ -1,4 +1,4 @@
- ---
+---
 layout: default
 title: "across the board：全面地"
 date: 2024-09-24
