@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "0924_promptFor《画里画外》"
+title: "20240924_TECH_prompt_image_analysis"
 date: 2024-09-24
 nav_order: 20240924
 ---
