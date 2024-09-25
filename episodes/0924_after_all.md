@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "0924_after all：毕竟；终究"
+title: "20240924_ENG_04_phrase_after_all"
 date: 2024-09-24
 nav_order: 20240924
 ---
