@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "0924_ahead of schedule：提前"
+title: "20240924_ENG_09_phrase_ahead_of_schedule"
 date: 2024-09-24
 nav_order: 20240924  
 ---
