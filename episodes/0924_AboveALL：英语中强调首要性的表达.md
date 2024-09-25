@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "0924_AboveALL：英语中强调首要性的表达"
+title: "20240924_ENG_01_emphasis_expressions"
 date: 2024-09-24  
 nav_order: 20240924
 ---
