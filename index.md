@@ -13,6 +13,10 @@ nav_order: 1
 
 这里收集了 BBC 6 Minute English 节目的文本内容,并提供中英文对照版本,方便学习和参考。
 
+[BBC-6-minuteEnglish](https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2024)  
+
+
+
 ## 最新内容
 
 
