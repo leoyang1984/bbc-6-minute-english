@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "0924_across_the_board"
+title: "20240924_ENG_03_phrase_across_the_board"
 date: 2024-09-24
 nav_order: 20240924
 ---
