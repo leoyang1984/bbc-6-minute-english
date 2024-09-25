@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "0915_Keeping kids off smartphones"
+title: "20240915_EDU_kids_smartphone_usage"
 date: 2024-09-15  
 nav_order: 20240915
 ---
