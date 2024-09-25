@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "0924_a different ball game：完全不同"
+title: "20240924_ENG_02_idiom_different_ball_game"
 date: 2024-09-24
 nav_order: 20240924
 ---
